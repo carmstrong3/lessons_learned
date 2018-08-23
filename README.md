@@ -5,3 +5,4 @@ Things I have learned in Bloc:
 3. CSS Frameworks
 4. Command Line utilization
 5. JavaScript
+6. Git!
